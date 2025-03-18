@@ -30,7 +30,6 @@ TestingIV/
 │   ├── PartnerService.cs
 │   ├── ISignatureService.cs
 │   └── SignatureService.cs
-├── Logs/                   # Created at runtime for logs
 ├── Dockerfile
 ├── log4net.config
 ├── Program.cs
