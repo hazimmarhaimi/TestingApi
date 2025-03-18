@@ -6,7 +6,7 @@ Below is an updated `README.md` for your `TestingIV` project, tailored to reflec
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet)
 ![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Github Action](https://img.shields.io/gitlab/pipeline-status/:project)
 
 **TestingIV** is an ASP.NET Core Web API that processes transaction requests, applies discount rules, and logs activities for troubleshooting. It features robust validation, signature verification, and discount calculations, all containerized using Docker for portability and consistency.
 
